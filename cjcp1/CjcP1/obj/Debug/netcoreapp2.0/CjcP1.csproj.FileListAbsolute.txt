@@ -10,6 +10,7 @@ C:\Users\Joelo\Source\Repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.Ass
 C:\Users\Joelo\Source\Repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.dll
 C:\Users\Joelo\Source\Repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\bin\Debug\netcoreapp2.0\CjcP1.deps.json
 C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\bin\Debug\netcoreapp2.0\CjcP1.runtimeconfig.json
 C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\bin\Debug\netcoreapp2.0\CjcP1.runtimeconfig.dev.json
@@ -22,6 +23,8 @@ C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.
 C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.dll
 C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.pdb
 =======
+=======
+>>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa
 C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\bin\Debug\netcoreapp2.0\CjcP1.deps.json
 C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\bin\Debug\netcoreapp2.0\CjcP1.runtimeconfig.json
 C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\bin\Debug\netcoreapp2.0\CjcP1.runtimeconfig.dev.json
@@ -33,4 +36,7 @@ C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcorea
 C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.AssemblyInfo.cs
 C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.dll
 C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\obj\Debug\netcoreapp2.0\CjcP1.pdb
+<<<<<<< HEAD
+>>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa
+=======
 >>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa

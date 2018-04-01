@@ -1,7 +1,11 @@
 {
   "version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "Meum/gHLz1bapJ2dV6CrHwhnOvuIZTFRshkkaIEGPxsz+lbOo5ZiHRdMQfURKfw0WHvISIQmN+KtMNB56WOfSQ==",
+=======
+  "dgSpecHash": "9f3ezC77tM2gTas0LZtQ5t5bOPHPgHrQXftUSs8iT3ay9fujvPppRUPLwPkQbGi8PjM4KprSP+1CQwAXNmOsPA==",
+>>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa
 =======
   "dgSpecHash": "9f3ezC77tM2gTas0LZtQ5t5bOPHPgHrQXftUSs8iT3ay9fujvPppRUPLwPkQbGi8PjM4KprSP+1CQwAXNmOsPA==",
 >>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa

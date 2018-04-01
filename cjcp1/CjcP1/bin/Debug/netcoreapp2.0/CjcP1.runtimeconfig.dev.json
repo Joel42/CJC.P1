@@ -2,9 +2,14 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
       "C:\\Users\\T-PC\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\T-PC\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+=======
+      "C:\\Users\\Christopher De Jesus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Christopher De Jesus\\.nuget\\packages",
+>>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa
 =======
       "C:\\Users\\Christopher De Jesus\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Christopher De Jesus\\.nuget\\packages",
