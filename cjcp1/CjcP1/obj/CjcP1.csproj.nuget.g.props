@@ -3,9 +3,21 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\T-PC\Documents\GitHub\CJC.P1\cjcp1\CjcP1\obj\project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\T-PC\.nuget\packages\;C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+=======
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\obj\project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Christopher De Jesus\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+>>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa
+=======
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\Christopher De Jesus\source\repos\CJC.P1\cjcp1\CjcP1\obj\project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Christopher De Jesus\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+>>>>>>> c9b780fb8c6a85c6809ab022fa5aae293c4f3ffa
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.6.1</NuGetToolVersion>
   </PropertyGroup>
